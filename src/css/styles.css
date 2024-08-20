@@ -164,6 +164,7 @@ a:focus {
   outline: none;
   border-radius: 4px;
   background-color: #fefffd;
+  font-size: medium;
 }
 
 .form fieldset {
